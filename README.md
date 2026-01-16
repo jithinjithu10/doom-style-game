@@ -18,7 +18,7 @@ This project was created to explore game development fundamentals, 2.5D renderin
 
 ---
 
-## 🧠 How It Works (Core Concepts)
+##  How It Works (Core Concepts)
 
 ### 🧱 1. **Raycasting Engine**
 - Each frame, rays are cast from the player’s viewpoint to detect walls
@@ -45,6 +45,7 @@ This project was created to explore game development fundamentals, 2.5D renderin
 - Builds your Python + game development credibility
 - No engines or frameworks beyond `pygame`
 - Clean architecture: easy to extend or rework into a larger game
+
 
 
 

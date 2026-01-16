@@ -40,11 +40,12 @@ This project was created to explore game development fundamentals, 2.5D renderin
 - Each cell = wall, floor, or object
 - Easy to expand and create custom levels
 
-- ✅ Demonstrates how old-school FPS games worked
-- ✅ Reinforces 2D → 3D thinking via raycasting
-- ✅ Builds your Python + game development credibility
-- ✅ No engines or frameworks beyond `pygame`
-- ✅ Clean architecture: easy to extend or rework into a larger game
+- Demonstrates how old-school FPS games worked
+- Reinforces 2D → 3D thinking via raycasting
+- Builds your Python + game development credibility
+- No engines or frameworks beyond `pygame`
+- Clean architecture: easy to extend or rework into a larger game
+
 
 
 
